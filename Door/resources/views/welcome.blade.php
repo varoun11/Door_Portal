@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                Door Portal Menu and Davatar
                 </div>
 
                 <div class="links">
